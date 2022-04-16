@@ -1,5 +1,5 @@
 # RxSwift_MVVM-C_sample
-Sample project to demonstrate usage of:
+Sample project that demonstrates usage of:
 MVVM architecture
 Coordinators
 RxSwift
